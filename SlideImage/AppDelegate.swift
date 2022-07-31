@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  HM9_1
+//  SlideImage
 //
-//  Created by Aliaksandr Hunko on 13/07/2022.
+//  Created by Aliaksandr Hunko on 31/07/2022.
 //
 
 import UIKit

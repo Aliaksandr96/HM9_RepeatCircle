@@ -7,27 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		DA04790E287EF38A00B19DFB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA04790D287EF38A00B19DFB /* AppDelegate.swift */; };
-		DA047910287EF38A00B19DFB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA04790F287EF38A00B19DFB /* SceneDelegate.swift */; };
-		DA047912287EF38A00B19DFB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA047911287EF38A00B19DFB /* ViewController.swift */; };
-		DA047915287EF38A00B19DFB /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DA047913287EF38A00B19DFB /* Main.storyboard */; };
-		DA047917287EF38C00B19DFB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DA047916287EF38C00B19DFB /* Assets.xcassets */; };
-		DA04791A287EF38C00B19DFB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DA047918287EF38C00B19DFB /* LaunchScreen.storyboard */; };
+		DA20709B2896722400B0F022 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA20709A2896722400B0F022 /* AppDelegate.swift */; };
+		DA20709D2896722400B0F022 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA20709C2896722400B0F022 /* SceneDelegate.swift */; };
+		DA20709F2896722400B0F022 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DA20709E2896722400B0F022 /* ViewController.swift */; };
+		DA2070A22896722400B0F022 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DA2070A02896722400B0F022 /* Main.storyboard */; };
+		DA2070A42896722500B0F022 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DA2070A32896722500B0F022 /* Assets.xcassets */; };
+		DA2070A72896722500B0F022 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DA2070A52896722500B0F022 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		DA04790A287EF38A00B19DFB /* HM9_1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HM9_1.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		DA04790D287EF38A00B19DFB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		DA04790F287EF38A00B19DFB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		DA047911287EF38A00B19DFB /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		DA047914287EF38A00B19DFB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		DA047916287EF38C00B19DFB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		DA047919287EF38C00B19DFB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		DA04791B287EF38C00B19DFB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DA2070972896722400B0F022 /* SlideImage.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SlideImage.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		DA20709A2896722400B0F022 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		DA20709C2896722400B0F022 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		DA20709E2896722400B0F022 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		DA2070A12896722400B0F022 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		DA2070A32896722500B0F022 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		DA2070A62896722500B0F022 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		DA2070A82896722500B0F022 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		DA047907287EF38A00B19DFB /* Frameworks */ = {
+		DA2070942896722400B0F022 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -37,72 +37,72 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		DA047901287EF38A00B19DFB = {
+		DA20708E2896722400B0F022 = {
 			isa = PBXGroup;
 			children = (
-				DA04790C287EF38A00B19DFB /* HM9_1 */,
-				DA04790B287EF38A00B19DFB /* Products */,
+				DA2070992896722400B0F022 /* SlideImage */,
+				DA2070982896722400B0F022 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		DA04790B287EF38A00B19DFB /* Products */ = {
+		DA2070982896722400B0F022 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				DA04790A287EF38A00B19DFB /* HM9_1.app */,
+				DA2070972896722400B0F022 /* SlideImage.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		DA04790C287EF38A00B19DFB /* HM9_1 */ = {
+		DA2070992896722400B0F022 /* SlideImage */ = {
 			isa = PBXGroup;
 			children = (
-				DA04790D287EF38A00B19DFB /* AppDelegate.swift */,
-				DA04790F287EF38A00B19DFB /* SceneDelegate.swift */,
-				DA047911287EF38A00B19DFB /* ViewController.swift */,
-				DA047913287EF38A00B19DFB /* Main.storyboard */,
-				DA047916287EF38C00B19DFB /* Assets.xcassets */,
-				DA047918287EF38C00B19DFB /* LaunchScreen.storyboard */,
-				DA04791B287EF38C00B19DFB /* Info.plist */,
+				DA20709A2896722400B0F022 /* AppDelegate.swift */,
+				DA20709C2896722400B0F022 /* SceneDelegate.swift */,
+				DA20709E2896722400B0F022 /* ViewController.swift */,
+				DA2070A02896722400B0F022 /* Main.storyboard */,
+				DA2070A32896722500B0F022 /* Assets.xcassets */,
+				DA2070A52896722500B0F022 /* LaunchScreen.storyboard */,
+				DA2070A82896722500B0F022 /* Info.plist */,
 			);
-			path = HM9_1;
+			path = SlideImage;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		DA047909287EF38A00B19DFB /* HM9_1 */ = {
+		DA2070962896722400B0F022 /* SlideImage */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = DA04791E287EF38C00B19DFB /* Build configuration list for PBXNativeTarget "HM9_1" */;
+			buildConfigurationList = DA2070AB2896722500B0F022 /* Build configuration list for PBXNativeTarget "SlideImage" */;
 			buildPhases = (
-				DA047906287EF38A00B19DFB /* Sources */,
-				DA047907287EF38A00B19DFB /* Frameworks */,
-				DA047908287EF38A00B19DFB /* Resources */,
+				DA2070932896722400B0F022 /* Sources */,
+				DA2070942896722400B0F022 /* Frameworks */,
+				DA2070952896722400B0F022 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = HM9_1;
-			productName = HM9_1;
-			productReference = DA04790A287EF38A00B19DFB /* HM9_1.app */;
+			name = SlideImage;
+			productName = SlideImage;
+			productReference = DA2070972896722400B0F022 /* SlideImage.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		DA047902287EF38A00B19DFB /* Project object */ = {
+		DA20708F2896722400B0F022 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1340;
 				LastUpgradeCheck = 1340;
 				TargetAttributes = {
-					DA047909287EF38A00B19DFB = {
+					DA2070962896722400B0F022 = {
 						CreatedOnToolsVersion = 13.4.1;
 					};
 				};
 			};
-			buildConfigurationList = DA047905287EF38A00B19DFB /* Build configuration list for PBXProject "HM9_1" */;
+			buildConfigurationList = DA2070922896722400B0F022 /* Build configuration list for PBXProject "SlideImage" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -110,55 +110,55 @@
 				en,
 				Base,
 			);
-			mainGroup = DA047901287EF38A00B19DFB;
-			productRefGroup = DA04790B287EF38A00B19DFB /* Products */;
+			mainGroup = DA20708E2896722400B0F022;
+			productRefGroup = DA2070982896722400B0F022 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				DA047909287EF38A00B19DFB /* HM9_1 */,
+				DA2070962896722400B0F022 /* SlideImage */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		DA047908287EF38A00B19DFB /* Resources */ = {
+		DA2070952896722400B0F022 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DA04791A287EF38C00B19DFB /* LaunchScreen.storyboard in Resources */,
-				DA047917287EF38C00B19DFB /* Assets.xcassets in Resources */,
-				DA047915287EF38A00B19DFB /* Main.storyboard in Resources */,
+				DA2070A72896722500B0F022 /* LaunchScreen.storyboard in Resources */,
+				DA2070A42896722500B0F022 /* Assets.xcassets in Resources */,
+				DA2070A22896722400B0F022 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		DA047906287EF38A00B19DFB /* Sources */ = {
+		DA2070932896722400B0F022 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				DA047912287EF38A00B19DFB /* ViewController.swift in Sources */,
-				DA04790E287EF38A00B19DFB /* AppDelegate.swift in Sources */,
-				DA047910287EF38A00B19DFB /* SceneDelegate.swift in Sources */,
+				DA20709F2896722400B0F022 /* ViewController.swift in Sources */,
+				DA20709B2896722400B0F022 /* AppDelegate.swift in Sources */,
+				DA20709D2896722400B0F022 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		DA047913287EF38A00B19DFB /* Main.storyboard */ = {
+		DA2070A02896722400B0F022 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DA047914287EF38A00B19DFB /* Base */,
+				DA2070A12896722400B0F022 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		DA047918287EF38C00B19DFB /* LaunchScreen.storyboard */ = {
+		DA2070A52896722500B0F022 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				DA047919287EF38C00B19DFB /* Base */,
+				DA2070A62896722500B0F022 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -166,7 +166,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		DA04791C287EF38C00B19DFB /* Debug */ = {
+		DA2070A92896722500B0F022 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -226,7 +226,7 @@
 			};
 			name = Debug;
 		};
-		DA04791D287EF38C00B19DFB /* Release */ = {
+		DA2070AA2896722500B0F022 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -280,7 +280,7 @@
 			};
 			name = Release;
 		};
-		DA04791F287EF38C00B19DFB /* Debug */ = {
+		DA2070AC2896722500B0F022 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -289,7 +289,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 4XKQ66453D;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = HM9_1/Info.plist;
+				INFOPLIST_FILE = SlideImage/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -300,7 +300,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.aliaksandr.hunko.HM9-1";
+				PRODUCT_BUNDLE_IDENTIFIER = com.aliaksandr.hunko.SlideImage;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -308,7 +308,7 @@
 			};
 			name = Debug;
 		};
-		DA047920287EF38C00B19DFB /* Release */ = {
+		DA2070AD2896722500B0F022 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -317,7 +317,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 4XKQ66453D;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = HM9_1/Info.plist;
+				INFOPLIST_FILE = SlideImage/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
@@ -328,7 +328,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.aliaksandr.hunko.HM9-1";
+				PRODUCT_BUNDLE_IDENTIFIER = com.aliaksandr.hunko.SlideImage;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -339,25 +339,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		DA047905287EF38A00B19DFB /* Build configuration list for PBXProject "HM9_1" */ = {
+		DA2070922896722400B0F022 /* Build configuration list for PBXProject "SlideImage" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				DA04791C287EF38C00B19DFB /* Debug */,
-				DA04791D287EF38C00B19DFB /* Release */,
+				DA2070A92896722500B0F022 /* Debug */,
+				DA2070AA2896722500B0F022 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		DA04791E287EF38C00B19DFB /* Build configuration list for PBXNativeTarget "HM9_1" */ = {
+		DA2070AB2896722500B0F022 /* Build configuration list for PBXNativeTarget "SlideImage" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				DA04791F287EF38C00B19DFB /* Debug */,
-				DA047920287EF38C00B19DFB /* Release */,
+				DA2070AC2896722500B0F022 /* Debug */,
+				DA2070AD2896722500B0F022 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = DA047902287EF38A00B19DFB /* Project object */;
+	rootObject = DA20708F2896722400B0F022 /* Project object */;
 }
